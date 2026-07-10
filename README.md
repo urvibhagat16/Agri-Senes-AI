@@ -4,3 +4,4 @@
 ![image alt](https://github.com/urvibhagat16/Agri-Senes-AI/blob/384a4c3dbfdc92fd91fb891b4833175e84f03f94/Screenshot%202026-07-10%20131132.png)
 ![image alt](https://github.com/urvibhagat16/Agri-Senes-AI/blob/92877a4d85fb5dd714cb02c66d510520fe3aca83/Screenshot%202026-07-10%20131215.png)
 ![image alt](https://github.com/urvibhagat16/Agri-Senes-AI/blob/d1dd10cb2b50b2e77dc4ce21cb685e7b0905b154/Screenshot%202026-07-10%20131306.png)
+![image alt](https://github.com/urvibhagat16/Agri-Senes-AI/blob/e27d26b52e429a24901c2d8070773676119e75e0/Screenshot%202026-07-10%20131446.png)
